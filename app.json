@@ -45,6 +45,12 @@
       "typedRoutes": true,
       "reactCompiler": true
     },
-    "owner": "fariborz_p"
+    "owner": "fariborz_p",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "2b0c04db-c032-43e3-bf7e-e217a9c180c4"
+      }
+    }
   }
 }
